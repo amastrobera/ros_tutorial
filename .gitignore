@@ -1,4 +1,3 @@
-*txt.user
-*build/
-*devel/
-*.catkin_workspace
+build
+devel
+*.pyc
